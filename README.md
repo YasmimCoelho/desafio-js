@@ -48,6 +48,3 @@ um nome e adicionar à Fila e outro método chamado remover que deverá remover 
 A estrutura de dados deve funcionar como Fila, o primeiro registro a ser adicionado deve ser o primeiro a ser 
 removido.</p>
 
-### Pré-requisitos
-
-- Utilizar um editor de código para compilar cada código (https://code.visualstudio.com/)
